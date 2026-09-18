@@ -425,6 +425,9 @@ a.mt-button,input.mt-button {
 .info > h2{
     color: #FFFFFF;
 }
+.info > h3{
+    color: #FFFFFF;
+}
 .gotosection{
     font-size: 40px;
     cursor: pointer;
